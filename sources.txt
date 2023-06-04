@@ -1,1 +1,2 @@
 dataset "1950-2019-songs": https://data.mendeley.com/datasets/3t9vbwxgr5/2
+article of authors of dataset: https://sol.sbc.org.br/index.php/eniac/article/view/12155
